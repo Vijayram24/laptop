@@ -1,0 +1,568 @@
+price,Brand,Processor,Generation,RAM,ROM,Graphic Card
+37999,HP,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+44500,Acer,Intel Core i5,12th Gen,12 GB,512 GB SSD,0
+69900,ASUS,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+9990,HP,MediaTek MT8183,,4 GB,32 GB EMMC,0
+10990,Primebook,MediaTek MT8183,,4 GB,64 GB EMMC,0
+16990,CHUWI,Intel Celeron Dual Core,11th Gen,8 GB,256 GB SSD,0
+37990,ASUS,Intel Core i3,12th Gen,16 GB,512 GB SSD,0
+24499,Acer,Ryzen 3,,8 GB,256 GB SSD,0
+11990,Ultimus,Intel Celeron Dual Core,,4 GB,128 GB EMMC,0
+23100,HP,AMD Athlon,,8 GB,256 GB SSD,0
+33880,HP,Intel Core i3,11th Gen,16 GB,512 GB SSD,0
+32290,HP,Ryzen 3,,8 GB,512 GB SSD,0
+19990,Acer,Intel Celeron Dual Core,,8 GB,256 GB SSD,0
+19990,HP,Intel Celeron Dual Core,,4 GB,64 GB EMMC,0
+17990,Infinix,Intel Celeron Quad Core,11th Gen,4 GB,128 GB SSD,0
+46990,ASUS,Intel Core i5,11th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+10990,Primebook,MediaTek MT8183,,4 GB,128 GB EMMC,0
+22990,HP,Intel Celeron Dual Core,,4 GB,64 GB EMMC,0
+47990,ASUS,Intel Core i5,11th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+23990,Lenovo,Intel Celeron Dual Core,,8 GB,512 GB SSD,0
+20990,Acer,Intel Celeron Dual Core,,8 GB,512 GB SSD,0
+34990,HP,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+45990,ASUS,Ryzen 5,,8 GB,512 GB SSD,0
+38990,ASUS,Intel Core i3,12th Gen,16 GB,512 GB SSD,0
+36590,ASUS,Intel Core i3,12th Gen,16 GB,512 GB SSD,0
+26500,Acer,Ryzen 3,,8 GB,256 GB SSD,0
+25790,HP,AMD Athlon,,8 GB,512 GB SSD,0
+23990,HP,Intel Celeron Dual Core,,4 GB,128 GB EMMC,0
+20990,HP,Intel Celeron Dual Core,,4 GB,64 GB EMMC,0
+26490,HP,Ryzen 3,,8 GB,512 GB SSD,0
+95490,ASUS,Intel Core i5,13th Gen,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+12990,Ultimus,Intel Dual Core N4020,,4 GB,128 GB SSD,0
+30999,HP,Ryzen 5,,8 GB,512 GB SSD,0
+29990,Acer,Ryzen 3,,16 GB,512 GB SSD,0
+27890,Acer,Ryzen 3,,8 GB,512 GB SSD,0
+30999,Lenovo,Ryzen 3,,8 GB,512 GB SSD,0
+27490,Lenovo,Ryzen 3,,8 GB,512 GB SSD,0
+20990,Acer,Intel Celeron Dual Core,,8 GB,256 GB SSD,0
+114990,ASUS,Qualcomm Snapdragon X Elite,,16 GB,1 TB SSD,0
+164490,Apple,Apple Silicon,,16 GB,512 GB SSD,0
+27990,Infinix,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+21980,ASUS,Intel Celeron Quad Core,,4 GB,256 GB SSD,0
+29990,Lenovo,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+33190,DELL,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+58990,Acer,Intel Core i5,13th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+33980,ASUS,Ryzen 3,,8 GB,512 GB SSD,0
+36790,Lenovo,Ryzen 5,,8 GB,512 GB SSD,0
+36990,Lenovo,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+27790,HP,Ryzen 3,,8 GB,512 GB SSD,0
+40190,Lenovo,Ryzen 5,,16 GB,512 GB SSD,0
+27990,Lenovo,Intel Celeron Dual Core,,4 GB,256 GB SSD,0
+31990,Acer,Ryzen 3,,16 GB,512 GB SSD,0
+151190,Lenovo,Intel Core Ultra,,32 GB,1 TB SSD,0
+27180,Lenovo,Ryzen 3,,8 GB,512 GB SSD,0
+89990,HP,Intel Core i7,11th Gen,16 GB,1 TB SSD,0
+22750,Acer,Intel Celeron Quad Core,,4 GB,256 GB SSD,0
+49999,ASUS,Intel Core i5,10th Gen,8 GB,1 TB SSD,4 GB Graphics/NVIDIA GeForce GTX GTX
+31890,HP,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+19990,Lenovo,Intel Celeron Dual Core,,4 GB,64 GB EMMC,0
+23990,ASUS,Intel Pentium Gold 7505,,8 GB,256 GB SSD,0
+40185,ASUS,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+24990,Lenovo,Qualcomm Snapdragon 7c Gen 2,,8 GB,128 GB EMMC,0
+28990,Acer,Ryzen 3,,8 GB,256 GB SSD,0
+29990,Acer,Intel Core i3,11th Gen,16 GB,512 GB SSD,0
+40800,DELL,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+34890,DELL,Ryzen 5,,8 GB,512 GB SSD,0
+36990,Acer,Intel Core i5,11th Gen,16 GB,512 GB SSD,0
+72990,HP,Intel Core Ultra,,16 GB,512 GB SSD,0
+52990,HP,Ryzen 5,,16 GB,512 GB SSD,4 GB Graphics/AMD Radeon RX 
+27690,Acer,Ryzen 3,,8 GB,512 GB SSD,0
+38990,ASUS,Intel Core i3,11th Gen,8 GB,256 GB SSD,0
+35480,ASUS,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+34999,Acer,Intel Core i3,11th Gen,8 GB,256 GB SSD,0
+46490,HP,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+33990,ASUS,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+32990,HP,Ryzen 3,,8 GB,256 GB SSD,0
+46490,HP,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+35888,HP,Ryzen 5,,8 GB,512 GB SSD,0
+32933,HP,Ryzen 5,5th Gen,16 GB,512 GB SSD,0
+32990,Acer,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+26400,Lenovo,Intel Celeron Dual Core,,4 GB,256 GB SSD,0
+35990,Lenovo,Ryzen 5,,8 GB,512 GB SSD,0
+36990,ASUS,Ryzen 5,,8 GB,512 GB SSD,0
+34990,HP,MediaTek Kompanio 1200,,8 GB,256 GB SSD,0
+33490,HP,Ryzen 3,,8 GB,512 GB SSD,0
+29990,Acer,Intel Core i3,13th Gen,8 GB,256 GB SSD,0
+31990,HP,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+62999,Acer,Ryzen 5,,16 GB,512 GB SSD,0
+31990,ASUS,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+30990,Lenovo,Ryzen 3,,8 GB,512 GB SSD,0
+24990,HP,Ryzen 3,,8 GB,512 GB SSD,0
+55990,HP,Intel Core i5,11th Gen,8 GB,1 TB HDD,0
+31890,Lenovo,Ryzen 3,,8 GB,512 GB SSD,0
+53990,ASUS,Ryzen 5,,16 GB,512 GB SSD,0
+38899,HP,Ryzen 5,,8 GB,512 GB SSD,0
+31490,ASUS,Ryzen 3,,8 GB,512 GB SSD,0
+40990,ASUS,Ryzen 5,,16 GB,512 GB SSD,0
+31490,HP,Ryzen 5,,8 GB,256 GB SSD,0
+32480,HP,Ryzen 5,,8 GB,512 GB SSD,0
+33990,ASUS,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+60790,ASUS,Intel Core i7,12th Gen,16 GB,512 GB SSD,0
+89990,ASUS,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+36990,HP,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+71990,DELL,Intel Core i5,13th Gen,8 GB,512 GB SSD,0
+126890,Apple,Apple Silicon,,8 GB,512 GB SSD,0
+33940,HP,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+38990,Infinix,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+36990,ASUS,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+78990,MSI,Intel Core i9,13th Gen,16 GB,1 TB SSD,0
+70990,Lenovo,Ryzen 5,,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+42990,MSI,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+30490,HP,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+71990,Lenovo,Intel Core i5,11th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+35800,HP,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+31990,Lenovo,Ryzen 3,,8 GB,512 GB SSD,0
+30990,HP,Intel Celeron Dual Core,,8 GB,512 GB SSD,0
+49990,WINGS,Intel Core i7,11th Gen,16 GB,512 GB SSD,0
+52990,MSI,Intel Core i5,11th Gen,16 GB,1 TB HDD,4 GB Graphics/NVIDIA GeForce RTX 
+109990,Acer,AMD Ryzen 7,,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+65500,DELL,Intel Core i5,11th Gen,8 GB,1 TB HDD,0
+99990,MSI,Intel Core Ultra,,16 GB,1 TB SSD,0
+86217,MSI,Intel Core i5,12th Gen,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+38990,DELL,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+59500,Lenovo,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+57990,Lenovo,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+63800,Lenovo,Intel Core i7,11th Gen,16 GB,512 GB SSD,0
+135000,DELL,Intel Core i7,,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+33400,DELL,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+29880,Lenovo,Intel Celeron Dual Core,,8 GB,256 GB SSD,0
+134990,MSI,Intel Core i7,14th Gen,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+42480,HP,Ryzen 5,,16 GB,512 GB SSD,0
+49999,Lenovo,Intel Core i5,11th Gen,8 GB,256 GB SSD,0
+38990,DELL,Intel Core i3,11th Gen,8 GB,1 TB HDD,0
+43490,Infinix,Intel Core i7,11th Gen,16 GB,512 GB SSD,0
+302900,ASUS,Intel Core i9,14th Gen,32 GB,2 TB SSD,12 GB Graphics/NVIDIA GeForce RTX 
+104990,ASUS,Intel Core i7,12th Gen,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+40990,ASUS,Ryzen 5,,16 GB,512 GB SSD,0
+42990,Lenovo,Ryzen 5,,8 GB,512 GB SSD,0
+45480,ASUS,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+30990,MSI,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+56990,MSI,Intel Core i5,12th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+28990,Acer,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+99980,ASUS,Ryzen 9,,16 GB,1 TB SSD,8 GB Graphics/AMD Radeon RX 
+49990,ASUS,Ryzen 5,,8 GB,1 TB HDD,0
+76990,HP,Intel Core i5,13th Gen,16 GB,1 TB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+74990,Infinix,Intel Core i5,13th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+36990,ASUS,Intel Core i3,11th Gen,4 GB,256 GB SSD,0
+69351,Acer,Intel Core i5,8th Gen,8 GB,512 GB SSD,0
+81899,Lenovo,Intel Core i5,13th Gen,16 GB,1 TB SSD,0
+33390,Acer,Ryzen 5,,8 GB,512 GB SSD,0
+36490,Acer,Intel Core i5,11th Gen,16 GB,512 GB SSD,0
+101990,MSI,Intel Core Ultra,,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+26990,Ultimus,Intel Core i5,10th Gen,8 GB,512 GB SSD,0
+89999,HP,Intel Core i7,13th Gen,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+52990,DELL,Intel Core i5,13th Gen,8 GB,512 GB SSD,0
+50990,HP,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce GTX 
+90190,Lenovo,AMD Ryzen Z1,,16 GB,512 GB SSD,0
+60999,Acer,Intel Core i7,11th Gen,16 GB,1 TB SSD,0
+36990,ASUS,Ryzen 5,,8 GB,512 GB SSD,0
+31490,HP,Ryzen 3,,8 GB,512 GB SSD,0
+64500,HP,Intel Core i5,11th Gen,16 GB,512 GB SSD,0
+53990,Lenovo,AMD Ryzen 7,5th Gen,16 GB,512 GB SSD,0
+35000,Lenovo,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+56800,Lenovo,Intel Core i7,11th Gen,16 GB,512 GB SSD,0
+126999,ASUS,AMD Ryzen 7,,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX RTX 
+35999,Acer,Ryzen 5,,16 GB,512 GB SSD,0
+42490,ASUS,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+34890,Acer,Ryzen 5,,16 GB,512 GB SSD,0
+61990,ASUS,AMD Ryzen 7,,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+59990,ASUS,AMD Ryzen 7,,16 GB,512 GB SSD,0
+33990,Acer,Intel Core i3,13th Gen,16 GB,512 GB SSD,0
+60000,Lenovo,Intel Core i7,11th Gen,16 GB,512 GB SSD,0
+74990,Lenovo,Ryzen 5,,8 GB,512 GB SSD,0
+36990,Acer,Intel Core i3,12th Gen,8 GB,256 GB SSD,0
+34200,Acer,Intel Core i3,,8 GB,256 GB SSD,0
+96999,DELL,Intel Core i7,,16 GB,1 TB SSD,0
+55990,ASUS,Intel Core i5,12th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+31590,ASUS,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+31990,ASUS,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+31990,ASUS,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+56100,Lenovo,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+42890,Lenovo,Intel Core i3,11th Gen,8 GB,1 TB HDD,0
+41990,HP,Ryzen 5,,16 GB,512 GB SSD,0
+67990,Lenovo,AMD Ryzen 7,,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+128690,MSI,Intel Core i9,13th Gen,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+41990,Lenovo,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+33500,Lenovo,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+198940,HP,Intel Core i7,13th Gen,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+145490,Apple,Apple Silicon,,16 GB,512 GB SSD,0
+40370,DELL,Ryzen 5,,8 GB,512 GB SSD,0
+90400,ASUS,AMD Ryzen 7,,16 GB,1 TB SSD,4 GB Graphics/NVIDIA GeForce RTX RTX 
+36500,Lenovo,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+58500,HP,Intel Core i5,11th Gen,8 GB,1 TB HDD,0
+44999,HP,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+47999,HP,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+79999,ASUS,AMD Ryzen 7,,16 GB,1 TB SSD,4 GB Graphics/NVIDIA GeForce RTX RTX 
+43990,ASUS,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+67990,Lenovo,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+49490,ASUS,Intel Core i5,11th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+33990,HP,Ryzen 5,,8 GB,512 GB SSD,0
+25890,Ultimus,Intel Core i5,10th Gen,8 GB,512 GB SSD,0
+53990,HP,Ryzen 5,,8 GB,512 GB SSD,0
+39990,DELL,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+92990,HP,Intel Core i7,12th Gen,16 GB,1 TB SSD,0
+64500,Acer,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+119540,HP,Intel Core i7,13th Gen,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+71990,HP,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+35990,HP,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+100990,Lenovo,AMD Ryzen 7,,16 GB,512 GB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+43960,DELL,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+135999,Acer,Intel Core i7,11th Gen,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+56990,ASUS,Intel Core i5,11th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX RTX 
+36990,MSI,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+50990,ASUS,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce GTX 
+50990,Lenovo,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX NVIDIA GeForce
+48190,HP,Ryzen 5,,8 GB,512 GB SSD,0
+34299,DELL,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+38400,Lenovo,Intel Core i5,11th Gen,8 GB,256 GB SSD,0
+69999,HP,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+40990,HP,Ryzen 5,,16 GB,512 GB SSD,0
+99912,ASUS,AMD Ryzen 7,,16 GB,512 GB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+54999,Acer,Intel Core i5,11th Gen,8 GB,1 TB SSD,0
+64999,DELL,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+69500,Lenovo,Intel Core i5,11th Gen,8 GB,512 GB SSD,0
+45990,Lenovo,Ryzen 5,,8 GB,512 GB SSD,0
+49990,Acer,Intel Core i7,12th Gen,16 GB,512 GB SSD,0
+33990,ASUS,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+47999,Lenovo,Ryzen 5,,8 GB,512 GB SSD,0
+45499,Lenovo,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+43990,Acer,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+51990,Infinix,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+33990,Acer,Ryzen 5,,8 GB,512 GB SSD,0
+43490,ASUS,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+54749,HP,Ryzen 5,,8 GB,512 GB SSD,0
+76990,Lenovo,Intel Core i7,13th Gen,16 GB,1 TB SSD,0
+109990,Infinix,Intel Core i9,13th Gen,32 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+17990,HP,AMD Athlon,,4 GB,256 GB SSD,0
+28990,ASUS,Intel Core i3,11th Gen,8 GB,256 GB SSD,0
+43990,ASUS,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+69900,Lenovo,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+94990,Lenovo,Intel Core i7,13th Gen,16 GB,512 GB SSD,0
+50400,DELL,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+55900,Lenovo,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+87990,DELL,Intel Core i7,13th Gen,16 GB,512 GB SSD,0
+51990,DELL,Intel Core i3,13th Gen,8 GB,256 GB SSD,0
+69499,Lenovo,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+49990,Lenovo,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+48000,HP,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+30880,ASUS,Ryzen 3,,8 GB,512 GB SSD,0
+58999,Lenovo,Intel Core i5,11th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce GTX 
+50990,Lenovo,Intel Core i5,11th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+57890,HP,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+37990,Lenovo,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+30173,Lenovo,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+164990,Acer,Intel Core i9,14th Gen,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+73140,Acer,AMD Ryzen 7,,16 GB,1 TB HDD,6 GB Graphics/NVIDIA GeForce RTX 
+36990,Acer,Ryzen 5,,16 GB,1 TB SSD,0
+72990,Acer,Intel Core i5,13th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+44990,Acer,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+31490,Lenovo,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+38990,Infinix,Intel Core i5,11th Gen,16 GB,512 GB SSD,0
+129500,HP,Intel Core i7,14th Gen,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+54990,Lenovo,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+49990,ASUS,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+79990,Lenovo,AMD Ryzen 7,,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+99590,Lenovo,AMD Ryzen 7,,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+90990,Lenovo,AMD Ryzen 7,,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+32480,HP,Ryzen 5,5th Gen,8 GB,512 GB SSD,0
+111999,Lenovo,Intel Core Ultra,,16 GB,1 TB SSD,0
+21490,Acer,AMD Dual Core A3020,,4 GB,256 GB SSD,0
+50100,HP,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+51990,DELL,Ryzen 5,,16 GB,512 GB SSD,0
+46890,ASUS,Intel Core i5,10th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce GTX 
+70000,Lenovo,Intel Core i5,12th Gen,16 GB,1 TB SSD,0
+71490,HP,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+52990,HP,Ryzen 5,,16 GB,512 GB SSD,0
+60999,ASUS,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+135990,ASUS,Intel Core i9,13th Gen,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+32990,MSI,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+53990,Acer,Intel Core i5,12th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+44090,HP,AMD Ryzen 7,,16 GB,512 GB SSD,0
+102990,Acer,Intel Core i7,12th Gen,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+36480,HP,Ryzen 5,,8 GB,512 GB SSD,0
+56799,DELL,Intel Core i5,13th Gen,8 GB,1 TB SSD,0
+39900,Lenovo,Ryzen 5,,8 GB,512 GB SSD,0
+51330,HP,Ryzen 5,,8 GB,512 GB SSD,0
+48990,ASUS,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+86490,HP,Intel Core i5,12th Gen,,,0
+73999,Lenovo,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+33990,MSI,Ryzen 5,,8 GB,512 GB SSD,0
+47990,HP,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+72999,Lenovo,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+45890,DELL,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+74990,Acer,Intel Core Ultra,,16 GB,512 GB SSD,0
+33989,DELL,Intel Core i3,12th Gen,8 GB,256 GB SSD,0
+38700,Acer,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+50600,Lenovo,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+52990,HP,Intel Core i5,13th Gen,8 GB,512 GB SSD,0
+69990,ASUS,Intel Core i7,13th Gen,16 GB,512 GB SSD,0
+54500,DELL,Intel Core i5,11th Gen,16 GB,512 GB SSD,0
+38990,ASUS,Intel Core i5,11th Gen,8 GB,512 GB SSD,0
+82990,MSI,Intel Core i5,12th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+54899,HP,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+64999,HP,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+34990,Lenovo,Intel Core i3,12th Gen,8 GB,256 GB SSD,0
+41500,Lenovo,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+48990,Lenovo,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+61990,DELL,AMD Ryzen 7,,8 GB,512 GB SSD,0
+42999,HP,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+41990,HP,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+96990,Lenovo,Intel Core i7,12th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+52990,HP,Intel Core i5,13th Gen,8 GB,512 GB SSD,0
+40490,HP,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+58990,HP,Intel Core i7,12th Gen,8 GB,512 GB SSD,0
+41590,DELL,Ryzen 5,,8 GB,512 GB SSD,0
+32888,ASUS,Ryzen 3,,8 GB,512 GB SSD,0
+99990,HP,Intel Core i7,13th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+37890,HP,Ryzen 5,,8 GB,512 GB SSD,0
+79999,Lenovo,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+53990,HP,Intel Core i5,12th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce GTX 
+59990,MSI,Intel Core i5,13th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+62990,ASUS,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+48490,Acer,Intel Core i7,11th Gen,16 GB,512 GB SSD,0
+66990,Acer,Intel Core i5,13th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+32990,Acer,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+100990,HP,AMD Ryzen 7,,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+49490,Lenovo,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+65990,HP,Intel Core i5,13th Gen,8 GB,1 TB SSD,0
+111000,Lenovo,Intel Core i7,13th Gen,24 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+56990,Lenovo,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+69500,Lenovo,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+49998,DELL,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+39990,DELL,Ryzen 5,,8 GB,512 GB SSD,0
+40999,DELL,Ryzen 3,,8 GB,512 GB SSD,0
+53990,HP,Ryzen 5,,16 GB,512 GB SSD,0
+75990,HP,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+69000,Lenovo,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+51900,Lenovo,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+22990,Acer,Intel Celeron Dual Core,,8 GB,512 GB SSD,0
+21990,Acer,Intel Celeron Dual Core,,8 GB,512 GB SSD,0
+52990,ASUS,Intel Core i5,11th Gen,16 GB,1 TB HDD,0
+65999,HP,Ryzen 5,,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+49990,ASUS,Intel Core i5,11th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+38990,ASUS,Ryzen 3,,8 GB,512 GB SSD,0
+54290,HP,Ryzen 5,,8 GB,512 GB SSD,0
+49190,Lenovo,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+34990,HP,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+40599,DELL,Ryzen 3,,8 GB,512 GB SSD,0
+38990,ASUS,Ryzen 3,,8 GB,512 GB SSD,0
+69990,HP,Ryzen 5,,16 GB,512 GB SSD,0
+67990,ASUS,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+69490,HP,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+38190,Lenovo,Ryzen 5,,8 GB,512 GB SSD,0
+80690,Lenovo,Intel Core Ultra,,16 GB,1 TB SSD,0
+52910,ASUS,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+59500,HP,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+92990,MSI,Intel Core i7,12th Gen,16 GB,512 GB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+115990,Lenovo,AMD Ryzen 7,,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+29990,Acer,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+40490,DELL,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+49565,HP,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+67000,SAMSUNG,Intel Core 5,,8 GB,512 GB SSD,0
+38990,Lenovo,AMD Ryzen 7,,16 GB,512 GB SSD,0
+32999,HP,Ryzen 3,,8 GB,512 GB SSD,0
+45990,ASUS,Ryzen 5,,8 GB,512 GB SSD,0
+44190,Lenovo,Intel Core i5,11th Gen,8 GB,512 GB SSD,0
+68990,Lenovo,AMD Ryzen 7,,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+54790,ASUS,Intel Core i5,11th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+79990,Lenovo,Intel Core i5,12th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+68990,Lenovo,AMD Ryzen 7,,16 GB,512 GB SSD,0
+46990,ASUS,Ryzen 5,,16 GB,512 GB SSD,0
+189500,Lenovo,Intel Core i9,14th Gen,32 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+38990,ASUS,Ryzen 3,,8 GB,512 GB SSD,0
+64990,Lenovo,Intel Core i5,12th Gen,12 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+53990,Acer,Intel Core i5,12th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+61990,DELL,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+63990,Lenovo,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+173000,ASUS,AMD Ryzen AI 9,,32 GB,2 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+54890,HP,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+41990,Acer,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+50100,HP,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+36490,HP,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+54500,DELL,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+50490,HP,Ryzen 5,13th Gen,8 GB,512 GB SSD,0
+91990,Lenovo,Intel Core i5,13th Gen,16 GB,1 TB SSD,0
+62990,HP,Intel Core i5,12th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce GTX 
+54850,HP,Ryzen 5,,16 GB,512 GB SSD,0
+56880,DELL,Intel Core i5,13th Gen,8 GB,512 GB SSD,0
+47910,DELL,Intel Core i5,13th Gen,8 GB,512 GB SSD,0
+68799,Lenovo,Intel Core i5,12th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+52990,SAMSUNG,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+56890,Lenovo,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+79990,HP,AMD Ryzen 7,,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+33990,MSI,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+109990,SAMSUNG,Intel Core 5,,16 GB,512 GB SSD,0
+81990,HP,Intel Core i7,12th Gen,16 GB,1 TB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+54990,Infinix,Intel Core Ultra,,16 GB,512 GB SSD,0
+61490,Lenovo,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce GTX 
+61990,Infinix,Intel Core i7,13th Gen,16 GB,512 GB SSD,0
+43990,Lenovo,Ryzen 5,,16 GB,512 GB SSD,0
+30990,Acer,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+62490,HP,AMD Ryzen 7,,16 GB,512 GB SSD,0
+49990,ASUS,Intel Core i5,10th Gen,8 GB,256 GB SSD,0
+68990,HP,Intel Core i5,12th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+30990,ASUS,Ryzen 3,,8 GB,512 GB SSD,0
+54890,DELL,Intel Core i5,13th Gen,8 GB,512 GB SSD,0
+59900,DELL,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+51990,ASUS,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+77990,Lenovo,AMD Ryzen 7,,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+58990,Acer,Intel Core i5,12th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+41990,DELL,Ryzen 5,,8 GB,512 GB SSD,0
+58990,HP,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+53990,HP,Intel Core i5,13th Gen,8 GB,512 GB SSD,0
+26990,Acer,Ryzen 3,,8 GB,512 GB SSD,0
+69450,DELL,Intel Core i7,13th Gen,16 GB,512 GB SSD,0
+78990,HP,Intel Core i7,12th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+45888,HP,Ryzen 5,,8 GB,512 GB SSD,0
+46990,ASUS,Intel Core i5,13th Gen,8 GB,512 GB SSD,0
+33990,ASUS,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+68990,HP,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+43890,HP,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+108434,ASUS,Intel Core i7,13th Gen,16 GB,512 GB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+66990,Lenovo,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+43990,ASUS,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+46990,ASUS,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+35100,DELL,Intel Core i3,11th Gen,8 GB,1 TB HDD,0
+68990,Lenovo,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+36490,HP,Ryzen 5,,8 GB,512 GB SSD,0
+39990,Acer,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+33990,DELL,Intel Core i3,12th Gen,8 GB,256 GB SSD,0
+102199,Acer,Intel Core i7,12th Gen,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+49990,Infinix,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+54000,DELL,Intel Core i5,11th Gen,16 GB,512 GB SSD,0
+40990,ASUS,Ryzen 5,,16 GB,512 GB SSD,0
+44300,ASUS,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+38490,ASUS,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+99999,Lenovo,Intel Core Ultra,,32 GB,1 TB SSD,0
+74400,DELL,Intel Core i5,,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+38900,HP,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+52500,ASUS,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+53999,DELL,Intel Core i5,11th Gen,8 GB,512 GB SSD,0
+37100,HP,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+56990,ASUS,AMD Ryzen 7,,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+91190,Lenovo,AMD Ryzen 7,,24 GB,512 GB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+59000,HP,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce GTX GTX 
+35690,HP,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+62990,Lenovo,Intel Core i5,12th Gen,16 GB,1 TB SSD,0
+80490,Lenovo,Intel Core i5,13th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+68190,Lenovo,Intel Core i5,12th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+23990,WINGS,Intel Core i3,11th Gen,8 GB,256 GB SSD,0
+67990,Acer,Intel Core i7,11th Gen,,,0
+69990,Acer,Intel Core i7,13th Gen,16 GB,1 TB SSD,0
+59990,ASUS,Intel Core i5,11th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+84990,ASUS,Intel Core i7,12th Gen,16 GB,1 TB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+99990,ASUS,Intel Core i7,12th Gen,16 GB,512 GB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+81990,DELL,Intel Core i5,13th Gen,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+35990,HP,Ryzen 5,,16 GB,512 GB SSD,0
+29990,HP,Intel Core N N100,,4 GB,64 GB EMMC,0
+35990,HP,Intel Core N N100,,,,0
+39000,HP,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+34500,Lenovo,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
+33500,Lenovo,Intel Core i3,11th Gen,4 GB,1 TB HDD,0
+31990,Lenovo,Ryzen 3,3rd Gen,8 GB,512 GB SSD,0
+150990,HP,Intel Core i7,13th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+85990,Acer,Intel Core Ultra,,16 GB,1 TB SSD,0
+59900,DELL,Intel Core i5,13th Gen,16 GB,1 TB SSD,0
+51900,HP,Ryzen 5,,8 GB,512 GB SSD,0
+92500,Acer,Intel Core Ultra,,16 GB,1 TB SSD,0
+50999,HP,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+51780,HP,Ryzen 5,,8 GB,512 GB SSD,0
+48999,HP,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+72999,ASUS,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+37490,DELL,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+49990,Lenovo,Intel Core i5,11th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce GTX 
+186500,HP,Intel Core i7,13th Gen,32 GB,1 TB SSD,0
+26990,Lenovo,Intel Celeron Dual Core,,8 GB,512 GB SSD,0
+50990,ASUS,Ryzen 5,,16 GB,512 GB SSD,0
+139990,ASUS,Intel Core Ultra,,32 GB,1 TB SSD,0
+344990,MSI,Intel Core i9,13th Gen,32 GB,2 TB SSD,16 GB Graphics/NVIDIA GeForce RTX 
+68642,ASUS,Ryzen 5,,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX NVIDIA
+418790,MSI,Intel Core i9,14th Gen,64 GB,2 TB SSD,12 GB Graphics/NVIDIA GeForce RTX 
+47499,HP,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/AMD Radeon AMD Radeon
+72990,ASUS,Intel Core i5,13th Gen,16 GB,1 TB SSD,0
+50500,HP,Ryzen 5,,8 GB,512 GB SSD,0
+94990,ASUS,Qualcomm,,16 GB,1 TB SSD,0
+55990,ASUS,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+176190,Lenovo,Ryzen 9,,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+139990,MSI,Intel Core Ultra,1st Gen,32 GB,1 TB SSD,0
+46990,HP,Intel Core i3,,,,0
+79990,Lenovo,AMD Ryzen 7,5th Gen,16 GB,512 GB SSD,0
+129990,DELL,Intel Core i7,13th Gen,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX RTX 
+153990,HP,Intel Core i7,13th Gen,32 GB,1 TB SSD,0
+45990,DELL,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+99590,Lenovo,AMD Ryzen 7,5th Gen,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX RTX
+129900,ASUS,AMD Ryzen 7,,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+60990,ASUS,Ryzen 5,,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+174990,Acer,Intel Core i7,13th Gen,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+64999,realme,Intel Core i5,11th Gen,16 GB,512 GB SSD,0
+77790,HP,Intel Core i7,12th Gen,16 GB,1 TB SSD,0
+50190,Lenovo,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+68990,HP,Intel Core i5,13th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+59990,SAMSUNG,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+131990,ASUS,Intel Core i7,13th Gen,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+49990,HP,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+65990,HP,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+44999,DELL,Intel Core i3,12th Gen,8 GB,512 GB SSD,0
+52990,Acer,Intel Core i5,12th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+64990,ASUS,Intel Core i5,12th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+94990,Acer,Intel Core i7,12th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+85990,Lenovo,Intel Core i5,13th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+91990,ASUS,Intel Core i9,13th Gen,16 GB,512 GB SSD,0
+104990,Acer,Intel Core i7,13th Gen,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+97990,Lenovo,Intel Core i7,13th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+68690,Lenovo,Ryzen 5,,24 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+57980,HP,Intel Core i5,12th Gen,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+81900,Lenovo,Ryzen 5,,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+116990,ASUS,Intel Core Ultra,,16 GB,1 TB SSD,0
+60490,Lenovo,Ryzen 5,,16 GB,512 GB SSD,0
+76990,Lenovo,AMD Ryzen 7,,16 GB,1 TB SSD,0
+44890,ASUS,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+73990,Lenovo,Intel Core i5,12th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+249990,MSI,Intel Core Ultra,,32 GB,2 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+205990,ASUS,Intel Core i9,14th Gen,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+151190,Lenovo,Intel Core Ultra,,16 GB,1 TB SSD,0
+52990,MSI,Intel Core i7,12th Gen,16 GB,512 GB SSD,0
+62990,HP,Intel Core 5,,8 GB,512 GB SSD,0
+77800,DELL,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+40990,HP,Intel Core N N200,,,,0
+80690,Lenovo,Intel Core 5,,16 GB,512 GB SSD,0
+54990,MSI,Intel Core i7,12th Gen,16 GB,512 GB SSD,0
+43490,HP,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+161990,HP,Ryzen 9,,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+69090,Lenovo,Intel Core i5,12th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+87990,MSI,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+181317,ASUS,Intel Core Ultra,,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+189990,Acer,Intel Core i7,14th Gen,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+131000,Lenovo,Intel Core Ultra,,16 GB,1 TB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+149990,Acer,Intel Core i5,13th Gen,16 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+47990,ASUS,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+37990,DELL,Ryzen 5,,8 GB,512 GB SSD,0
+149990,ASUS,Intel Core i7,13th Gen,16 GB,1 TB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+134999,DELL,Intel Core i7,13th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+70990,DELL,Intel Core i3,13th Gen,8 GB,1 TB SSD,0
+59799,HP,Ryzen 5,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+58490,HP,Intel Core i7,12th Gen,16 GB,512 GB SSD,0
+95990,ASUS,Intel Core i7,13th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+62190,Lenovo,Intel Core i5,12th Gen,12 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+37990,DELL,Intel Core i3,13th Gen,8 GB,512 GB SSD,0
+54990,ASUS,AMD Ryzen 7,,8 GB,512 GB SSD,4 GB Graphics/NVIDIA GeForce RTX 
+40990,HP,Intel Core i3,12th Gen,16 GB,512 GB SSD,0
+94990,HP,Intel Core i7,12th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+50500,HP,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+44490,Acer,AMD Ryzen 7,,16 GB,1 TB SSD,0
+59990,Acer,Ryzen 5,,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+48160,HP,Intel Core i5,12th Gen,8 GB,512 GB SSD,0
+59740,DELL,Intel Core i5,13th Gen,8 GB,1 TB SSD,0
+72890,Lenovo,Intel Core i5,13th Gen,16 GB,512 GB SSD,0
+61990,DELL,Intel Core i5,12th Gen,16 GB,512 GB SSD,0
+105890,Lenovo,Intel Core i7,13th Gen,24 GB,512 GB SSD,8 GB Graphics/NVIDIA GeForce RTX 
+54990,HP,Ryzen 5,,8 GB,512 GB SSD,0
+82190,Lenovo,AMD Ryzen 7,,24 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+44990,Lenovo,Ryzen 5,,8 GB,512 GB SSD,0
+64990,Infinix,Intel Core Ultra,,16 GB,512 GB SSD,0
+76990,Lenovo,Intel Core i5,13th Gen,16 GB,1 TB SSD,0
+73990,DELL,Intel Core i5,13th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX GEFORCE RTX 
+74890,DELL,Intel Core i5,13th Gen,16 GB,512 GB SSD,6 GB Graphics/NVIDIA GeForce RTX 
+44890,HP,Intel Core i3,11th Gen,8 GB,512 GB SSD,0
